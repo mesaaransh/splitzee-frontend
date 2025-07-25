@@ -26,6 +26,7 @@ function App() {
             <Route path="trip/:id" element={<Trip />} />
           </Route>
 
+          <Route path='/' element={<LoginSignup page="Login" />} />
           <Route path='*' element={<LoginSignup page="Login" />} />
         </Routes>
       </BrowserRouter>
