@@ -1,12 +1,45 @@
-# React + Vite
+# 🌗 Splitzee
+_A smarter, simpler, **free** way to split bills with friends._
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## What is Splitzee?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Splitzee** is a no nonsense bill-splitting app designed for friends, roommates, travel buddies, and anyone tired of chasing payments or doing mental math after dinner.  
+Inspired by the simplicity of Splitwise—but without the premium paywalls—Splitzee brings transparent, real-time expense tracking and settlements into one clean, accessible space.
 
-## Expanding the ESLint configuration
+Whether it’s group trips, rent, takeout, or recurring costs, Splitzee makes it easy to track who owes what, and who’s still “conveniently forgetting.”
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Screenshots
+
+| Dashboard | Add Expense | Settlements |
+|---|---|---|
+| ![Dashboard](./assets/dashboard.jpg) | ![Add Expense](assets/addexpense.jpg) | ![Settlements](assets/totals.jpg) |
+| Trip | Profile | Login |
+| ![Dashboard](./assets/trip.jpg) | ![Add Expense](assets/profile.jpg) | ![Settlements](assets/login.jpg) |
+
+---
+
+## Why I Built Splitzee
+
+I made **Splitzee** because I was fed up with “free” apps that locked basic features behind paywalls.
+
+Splitting bills shouldn’t cost you more money, it should save you the headache.
+
+Most alternatives were bloated or came with monthly fees just to access features like recurring bills or proper settlements. So I built a tool that’s clean, efficient, and completely free. No ads. No premium tiers. Just fairness, simplicity, and clarity.
+
+We live in an age of digital everything yet somehow, splitting a pizza still sparks confusion. I wanted to fix that.
+
+---
+
+## Future Prospects
+
+Splitzee is just getting warmed up. Here’s what’s on the roadmap:
+
+- 🔜 Payment integrations (UPI, PayPal, etc.)
+- 🔜 Mobile friendly UI (Android & iOS)
+- 🔜 Chat Feature b/w friends
+- 🔜 Online badges
+- 🔜 Push notifications
